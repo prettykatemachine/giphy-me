@@ -1,0 +1,36 @@
+header {
+	border-style: solid;
+border-width: 66px 0px;
+border-image: url("./images/film.png") 66 0 fill repeat;
+}
+h1 {
+    color: black;
+	font-family: 'Luckiest Guy', sans-serif;
+}
+
+.btn {
+	margin: 0;
+	height: 30px;
+	font-size: 13px;
+	padding-top: 6px;
+}
+#userInput {
+	width: 300px;
+	font-size: 13px;
+	padding: 0px 10px;
+}
+
+.movie-input {
+	margin-top: 30px;
+}
+
+.btn-outline-secondary {
+	margin: 5px;
+}
+
+.gifDiv {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
