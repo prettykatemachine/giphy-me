@@ -32,7 +32,7 @@ function displayGifs() {
   var queryURL =
     "https://api.giphy.com/v1/gifs/search?q=" +
     thisMovie +
-    "&api_key=xQhHrwBhdTjcOS01rgpsZI3pKELbOY37&limit=8&rating=pg";
+    "&api_key=xQhHrwBhdTjcOS01rgpsZI3pKELbOY37&limit=10&rating=pg";
 
   // ajax call
   $.ajax({
